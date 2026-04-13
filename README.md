@@ -4,7 +4,7 @@
 
 To implement and understand Simple and Multiple Linear Regression using a housing dataset.
 
-## 🛠 Tools Used
+## Tools Used
 
 * Python
 * Pandas
