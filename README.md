@@ -44,7 +44,5 @@ To implement and understand Simple and Multiple Linear Regression using a housin
 
 The model shows a positive relationship between area and price. Multiple regression improves prediction accuracy.
 
-## Submission
 
-This project is submitted for AI & ML Internship Task 3.
 
